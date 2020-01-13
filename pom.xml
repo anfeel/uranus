@@ -13,7 +13,7 @@
     <modules>
         <module>uranus-eureka</module>
         <module>uranus-service</module>
-        <module>uranus-web</module>
+        <module>uranus-input</module>
     </modules>
     <name>uranus</name>
 
